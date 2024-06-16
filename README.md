@@ -3,11 +3,13 @@
 ## About Me
 I'm a passionate Data Engineer with experience in Python, AI, Machine Learning, and Statistics. I love collaborating on open-source projects and am always eager to learn something new.
 
+🔭 I’m currently working at A Coruña.
+🌱 I’m currently learning about Marketing CRM and Customer Intelligence.
+⚡ Fun fact: When I'm not coding, you can find me practicing various sports or indulging in my passion for music—I studied professional music for 10 years! 🎵🏅
+
 ## 🌐 Connect with Me
 - [LinkedIn](link-to-your-linkedin-profile)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitanamartinezz&show_icons=true&theme=radical)
 
 ## 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
@@ -24,9 +26,3 @@ I'm a passionate Data Engineer with experience in Python, AI, Machine Learning, 
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey?style=flat&logo=pytorch)
 
-<!--
-
-- 🔭 I’m currently working at A Coruña.
-- 🌱 I’m currently learning about Marketing CRM and Customer Intelligence.
-- ⚡ Fun fact: I practice various sports and have studied professional music for 10 years.
--->
