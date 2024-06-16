@@ -4,8 +4,19 @@
 I'm a passionate Data Engineer with experience in Python, AI, Machine Learning, and Statistics. I love collaborating on open-source projects and am always eager to learn something new.
 
 -🔭 I’m currently working at A Coruña.
+
 -🌱 I’m currently learning about Marketing CRM and Customer Intelligence.
+
 -⚡ Fun fact: When I'm not coding, you can find me practicing various sports or indulging in my passion for music—I studied professional music for 10 years! 🎵🏅
+
+## 🎓 Education
+I studied Data Science and Engineering at the University of A Coruña (UDC) and spent a year at Sorbonne Paris Nord.
+
+
+## 💼 Professional Experience
+- **[Data Engineer, [ABANCA CORPORACION BANCARIA]**
+
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](link-to-your-linkedin-profile)
