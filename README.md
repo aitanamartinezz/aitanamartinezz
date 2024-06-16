@@ -7,7 +7,7 @@ I'm a passionate Data Engineer with experience in Python, AI, Machine Learning, 
 - [LinkedIn](link-to-your-linkedin-profile)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aitanamartinezz&show_icons=true&theme=radical)
 
 ## 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
