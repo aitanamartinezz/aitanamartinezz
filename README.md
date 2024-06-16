@@ -14,12 +14,12 @@ I studied Data Science and Engineering at the University of A Coruña (UDC) and 
 
 
 ## 💼 Professional Experience
-- **[Data Engineer, [ABANCA CORPORACION BANCARIA]**
+- **[Data Engineer | ABANCA CORPORACION BANCARIA]**
 
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](link-to-your-linkedin-profile)
+- https://www.linkedin.com/in/%20aitanamartinezz
 
 
 ## 💻 Languages and Tools
